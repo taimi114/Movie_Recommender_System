@@ -1,0 +1,1 @@
+The Movie Recommender System is a machine learning project that helps users discover movies based on their preferences. By leveraging data analysis and recommendation algorithms, this system provides tailored suggestions for movies, ensuring a personalized experience.
